@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBEBewuPqp8skA2zHPXwvI/BVdEs2anH4WgsVWnOKfRVxRO2QTWd0XX1hWDVb/T6sVRywcP4bqm91EGwf3d6bg==",
+  "success": true,
+  "projectFilePath": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.Application/RecordManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/iambrian/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B235E0C0-ED85-4611-8E37-92F113F40F3E}|https">
+  <MonoDevelop.Ide.ItemProperties.RecordManagement.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecordManagement.Api/Program.cs">
+    <Files>
+      <File FileName="RecordManagement.Api/Program.cs" Line="7" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecordManagement" expanded="True">
+            <Node name="RecordManagement.Domain" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

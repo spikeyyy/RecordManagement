@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/obj/Debug/net8.0/compressed/bj9uaed9rx.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/obj/Debug/net8.0/scopedcss/bundle/RecordManagement.WebAssembly.styles.css",
+      "PackagePath": "staticwebassets/RecordManagement.WebAssembly.styles.css"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/iambrian/Documents/RecordManagement/RecordManagement/RecordManagement.WebAssembly/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RecordManagement.WebAssembly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RecordManagement.WebAssembly.props",
+      "PackagePath": "build\\RecordManagement.WebAssembly.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RecordManagement.WebAssembly.props",
+      "PackagePath": "buildMultiTargeting\\RecordManagement.WebAssembly.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RecordManagement.WebAssembly.props",
+      "PackagePath": "buildTransitive\\RecordManagement.WebAssembly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

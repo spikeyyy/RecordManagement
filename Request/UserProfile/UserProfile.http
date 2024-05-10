@@ -1,0 +1,14 @@
+@server = http://localhost:5117/
+# @token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYTBmMzE4Mi00OGNmLTQzZjktOTc0MS1iZjNmODg1YzVkMTMiLCJnaXZlbl9uYW1lIjoiQnJpYW4gSmhvbiIsImZhbWlseV9uYW1lIjoiUGVuaWNpbGxhIiwianRpIjoiNDRmZjI3NDgtNDhhNS00MzcwLTg1ZmUtMDQ4ODIwM2EzMzJkIiwiZXhwIjoxNzE0NjE0MzE2LCJpc3MiOiJSZWNvcmRNYW5hZ2VtZW50IiwiYXVkIjoiUmVjb3JkTWFuYWdlbWVudCJ9._toWnuqR0vvQ1_va6ERGLLW5zPTz9jwVCXM26CaNKG0
+# @hostId = asdf
+POST {{server}}auth/userprofile
+Content-Type: application/json
+
+{  
+    "username" : "nicko",
+    "password": "pama",
+    "email": "nicko.n.j.bscs@gmail.com",
+    "firstname": "Brian Jhon",
+    "lastname": "Penicilla",
+    "contact" : "nicko"
+}

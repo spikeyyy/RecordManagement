@@ -1,0 +1,13 @@
+@server = http://localhost:5117/
+@token = token
+  
+POST {{server}}auth/register 
+Content-Type: application/json
+
+//dummy data for api json return
+{
+    "firstName": "Brian Jhon",
+    "lastName": "Penicilla",
+    "email": "penicilla.bj.bscs@gmail.com",
+    "password": "NIckoJame2aw"
+}
